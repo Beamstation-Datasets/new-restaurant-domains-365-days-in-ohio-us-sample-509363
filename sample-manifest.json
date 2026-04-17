@@ -1,0 +1,12 @@
+{
+  "export_job_id": "da80fd7a-4ab9-4c06-89c8-558d33691236",
+  "id_short": 509363,
+  "published_at": "2026-04-17T07:24:32Z",
+  "repo_name": "new-restaurant-domains-365-days-in-ohio-us-sample-509363",
+  "sample_asset_name": "beamstation_509363_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/509363/beamstation_509363_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_records": 70,
+  "sample_sha256": "fbd4334759498a6d23658e866bd6b44ba489440042011d949b9b0b367ba70d91",
+  "sample_size_bytes": 258658,
+  "total_records": 703
+}
